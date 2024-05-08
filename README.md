@@ -1,2 +1,3 @@
-# JHU-DataScience-Specialization-Capstone-Project
-JHU Data Specialization - my works 
+# JHU-DataScience-Specialization
+JHU Data Specialization - my works, exercises and final projects
+
